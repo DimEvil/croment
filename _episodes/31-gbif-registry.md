@@ -4,6 +4,8 @@ start: true
 teaching: 30
 exercises: 30
 questions:
+- "What is the GBIF Registry?"
+- "How can I use the GBIF API, Pygbif, and Rgbif?"
 
 objectives:
 - "Get used to the GBIF Registry"

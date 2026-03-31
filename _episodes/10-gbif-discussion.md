@@ -1,5 +1,5 @@
 ---
-title: "GBIF Discussion"
+title: "GBIF Discussion: Nodes and Network"
 start: true
 teaching: 0
 exercises: 60

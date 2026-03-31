@@ -9,7 +9,8 @@ questions:
 objectives:
 - "Complete the (optional) post-workshop survey."
 keypoints:
-
+- "Continue practicing with your own datasets after the workshop."
+- "The GBIF community and national nodes are available to support you."
 ---
 
 # Thank you for attending the workshop!

@@ -2,6 +2,7 @@
 title: "Belgian Node"
 start: true
 teaching: 30
+exercises: 0
 questions:
 - "How is the Belgian node organized?"
 - "Belgium in the world of Biodiversity data"

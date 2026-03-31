@@ -1,5 +1,5 @@
 ---
-title: "Living Atlasses & Croatian GBIF node"
+title: "Living Atlases & Croatian GBIF node"
 start: true
 teaching: 60
 exercises: 0
@@ -7,7 +7,7 @@ questions:
 - "Introduction to Living Atlas Croatia"
 
 objectives:
-- "Introduction to Living Atlas Croatia & Croatinan GBIF node "
+- "Introduction to Living Atlas Croatia & Croatian GBIF node"
 - "Introduction to Living Atlas Flanders (Belgium)"
 keypoints:
 - "Main concepts of a living Atlas project"

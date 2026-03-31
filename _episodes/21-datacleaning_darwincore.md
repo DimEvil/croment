@@ -1,5 +1,6 @@
 ---
 title: "Data Cleaning for Darwin Core"
+start: true
 teaching: 0
 exercises: 120
 questions:

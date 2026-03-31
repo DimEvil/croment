@@ -2,15 +2,16 @@
 title: "GBIF BID programme"
 start: true
 teaching: 30
-exercises: 30
+exercises: 0
 questions:
-- "What is IPT?"
-- "How is IPT organized"
-- "The GBIF portal"
+- "What is the GBIF BID programme?"
+- "Who is eligible to apply for BID funding?"
+- "What types of projects are funded by BID?"
 objectives:
-- "Understand how IPT works."
-- "Understand how GBIF is organized."
-- "Basic understanding of the GBIF portal"
+- "Understand the goals of the Biodiversity Information for Development (BID) programme."
+- "Learn what types of grants are available under BID."
+- "Know where to find information about open calls for proposals."
 keypoints:
-- "The GBIF portal is the place to find biodiversity data"
+- "BID supports biodiversity data mobilization in developing countries, especially in sub-Saharan Africa, the Pacific, and the Caribbean."
+- "BID grants fund national, regional, and small projects."
 ---

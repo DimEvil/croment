@@ -8,7 +8,7 @@ questions:
 - "A new research life cycle?"
 - "FAIR data?"
 objectives:
-- "Undersctand the principles of Open Science"
+- "Understand the principles of Open Science"
 - "Understand how FAIR data works."
 - "Understand how FAIR data is organized."
 keypoints:
@@ -21,7 +21,7 @@ keypoints:
     <img src="{{ '/assets/img/openscience.PNG' | relative_url }}">
   </a>
 
-> ## Excercise : FAIR data & Open Science
+> ## Exercise : FAIR data & Open Science
 > 
 > 1. What is the difference between FAIR and OPEN data?
 > 2. Check the FAIR Self assessment tool [here](https://ardc.edu.au/resource/fair-data-self-assessment-tool/) Think about a dataset you know and run over the assessment
@@ -45,7 +45,7 @@ keypoints:
     <img src="{{ '/assets/img/license.PNG' | relative_url }}">
   </a>
 
-> ## Excercise : Creative commons license chooser
+> ## Exercise : Creative commons license chooser
 > 
 > 1. Check the [Creative commons license chooser](https://chooser-beta.creativecommons.org/)
 > 2. Learn how to find an appropriate license for your biodiversity data

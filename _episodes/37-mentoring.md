@@ -4,13 +4,14 @@ start: true
 teaching: 30
 exercises: 30
 questions:
-- "What is IPT?"
-- "How is IPT organized"
-- "The GBIF portal"
+- "What is the GBIF mentoring programme?"
+- "What is CESP?"
+- "How can I apply for mentoring support?"
 objectives:
-- "Understand how IPT works."
-- "Understand how GBIF is organized."
-- "Basic understanding of the GBIF portal"
+- "Understand the goals of the GBIF Capacity Enhancement Support Programme (CESP)."
+- "Learn how to identify a mentoring opportunity for your node or institution."
+- "Know how to apply for CESP funding."
 keypoints:
-- "The GBIF portal is the place to find biodiversity data"
+- "CESP supports collaborative capacity-enhancement projects between GBIF nodes."
+- "Mentoring is one of the CESP activity types available to nodes."
 ---

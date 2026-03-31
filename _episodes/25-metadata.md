@@ -1,5 +1,6 @@
 ---
 title: "Metadata"
+start: true
 teaching: 0
 exercises: 30
 questions:
