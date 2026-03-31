@@ -17,7 +17,7 @@ keypoints:
 Data validation with GBIF data validation tool
 
 > ## Recommended initial checks on your data
-> * Check that all the [required Darwin Core terms](https://www.biodiversity.be/croment/25-metadata/index.html) are present and contain the correct information.
+> * Check that all the [required Darwin Core terms]({{ '/25-metadata/' | relative_url }}) are present and contain the correct information.
 > * Make a map from your data to ensure the coordinates are valid and within your expected range.
 > * Look at unique values of columns containing string entries to identify potential issues (eg. spelling). 
 > * Check for uniqueness of `occurrenceID` field. [dwc:occurrenceID](http://rs.tdwg.org/dwc/terms/occurrenceID)

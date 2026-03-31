@@ -1,21 +1,23 @@
 ---
-title: "GBIF opportunities (CESP, BID, Ambassador programme, data use club...)"
+title: "Living Atlases Community"
 start: true
 teaching: 60
 exercises: 0
 questions:
-- "What is CESP"
-- "What is BID"
-- "..."
+- "What is the Living Atlases community?"
+- "How can a GBIF node set up a Living Atlas portal?"
+- "What modules are available in the Atlas of Living Australia platform?"
 objectives:
-- "Learn about CESP"
-- "Learn about BID"
-- "Learn about the GBIF Ambassador programme"
+- "Understand the goals of the Living Atlases community."
+- "Learn how other GBIF nodes have implemented Living Atlas portals."
+- "Explore the ALA platform modules available to nodes."
 keypoints:
-- "keypoints"
+- "The Living Atlases community builds on the open-source Atlas of Living Australia (ALA) platform."
+- "GBIF nodes can use Living Atlas modules to build national biodiversity data portals."
+- "The community organizes workshops and provides support for new implementations."
 ---
 
-# Living atlasses community
+# Living Atlases community
 
 <a href="https://living-atlases.gbif.org/">
     <img src="{{ 'assets/img/livingatlas.PNG' | relative_url }}" alt="LA" width="550">{: .image-with-shadow }
